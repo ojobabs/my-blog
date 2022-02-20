@@ -3,7 +3,7 @@ module.exports = {
     title: `Blog | Tech gist`,
     author: {
       name: `Babatunde Ojo.`,
-      summary: `Babatunde lives and works in Lagos, nigeria. He is building automated infrastructures for the cloud.`,
+      summary: `Babatunde lives and works in Lagos, Nigeria. He is building automated infrastructures for the cloud.`,
     },
     description: `DevOps gist by Babatunde ojo`,
     siteUrl: `https://theojobabs.com/`,
