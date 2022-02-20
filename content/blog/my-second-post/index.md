@@ -1,13 +1,14 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: Migrating into Tech!
+date: "2022-02-18T23:46:37.121Z"
 ---
+![ Bran Icon, so happy](./my_story.png)
 
 Wow! I love blogging so much already.
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
+Let me introduce my brand name to you.
 
-Yeah, I didn't either.
+![ Bran Icon, so happy](./main-icon.ico)
+
+>The image above is an identity for Babatunde ojo. Please embrace it
+>
