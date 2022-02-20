@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Blog | Tech gist`,
     author: {
-      name: `Babatunde Ojo`,
-      summary: `who lives and works in Lagos, building automated infrastructures.`,
+      name: `Babatunde Ojo.`,
+      summary: `Babatunde lives and works in Lagos, nigeria. He is building automated infrastructures for the cloud.`,
     },
     description: `DevOps gist by Babatunde ojo`,
     siteUrl: `https://theojobabs.com/`,
